@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <!-- Device -->
-    <project path="device/samsung/heatqlte" name="tibixh/android_device_samsung_heatqlte" remote="github" revision="cm-11.0"/>
-    <project path="kernel/samsung/heatqltexx" name="TALUAtGitHub/android_kernel_samsung_heatqltexx" remote="github" revision="master"/>
-    <project path="vendor/samsung/heatqlte" name="tibixh/android_vendor_samsung_heatqlte" remote="github" revision="master"/>
+    <project path="device/samsung/heatqlte" name="TALUAtGitHub/android_device_samsung_heatqlte" remote="github" revision="cm-11.0"/>
+    <project path="kernel/samsung/heatqlte" name="TALUAtGitHub/android_kernel_samsung_heatqlte" remote="github" revision="cm-11.0"/>
+    <project path="vendor/samsung/heatqlte" name="TALUAtGitHub/android_vendor_samsung_heatqlte" remote="github" revision="cm-11.0"/>
 
     <!-- Display -->
     <project path="hardware/qcom/display-caf-new" name="LineageOS/android_hardware_qcom_display-caf-new" remote="github" revision="cm-11.0"/>
